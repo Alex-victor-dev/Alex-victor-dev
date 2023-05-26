@@ -15,22 +15,31 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor com experiência sólida
 - Integração com sistemas externos e consumo de APIs RESTful.
 - Deploy de aplicações em ambientes de produção, utilizando Docker e Amazon Web Services (AWS).
 
-## 💬 Entre em contato
+## 🌟 Habilidades
 
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/alex-victor-java).
-- 📫 Envie-me um email: alexvictoribeiro@gmail.com.
+- Linguagens: Java
+- Frameworks: Spring Boot
+- Bancos de Dados: PostgreSQL, MySQL
+- Cloud: AWS (Amazon Web Services)
+- Controle de Versão: Git, GitHub
+- Testes: JUnit, Mockito
+- Metodologias Ágeis: Scrum, Kanban
+- Docker
+- Clean Code, SOLID
+- Integração Contínua, Entrega Contínua (CI/CD)
+- Microservices, Arquitetura de Software
+
+## 💼 Projetos Destacados
+
+1. [Projeto Autorizador-Transação](https://github.com/Alex-victor-dev/autorizador-transacao) - O projeto do Autorizador de Transações é uma solução desenvolvida para auxiliar no processamento e autorização de transações financeiras. Ele oferece um sistema seguro e confiável para validar e aprovar transações realizadas por usuários.
+2. [Cliente-Cartao](https://github.com/Alex-victor-dev/credy-system) - O projeto de Sistema de Geração de Cartão para Clientes é uma solução desenvolvida para automatizar o processo de geração de cartões para clientes com base no saldo disponível em suas contas.
 
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alex-victor-dev&show_icons=true&count_private=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia a dia
+## 📫 Entre em contato
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
+- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/alex-victor-java).
+- 📧 Envie-me um email: alexvictoribeiro@gmail.com.
+
