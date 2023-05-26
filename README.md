@@ -1,4 +1,3 @@
-### Hi there 👋
 # Olá, eu sou o Alex! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor com experiência sólida na área de Java Spring Boot backend.
