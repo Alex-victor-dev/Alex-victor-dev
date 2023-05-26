@@ -26,32 +26,27 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor com experiência sólida
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
+<div style="display: inline-block; width: 100px;">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline-block; width: 100px;">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline-block; width: 100px;">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline-block; width: 100px;">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline-block; width: 100px;">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
-</div>
+<div style="display: inline-block;
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
         
         
